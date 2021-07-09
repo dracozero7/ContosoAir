@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/dracozero7/2383488a-775c-43d7-ab5a-379878654297/80136124-83c0-44e5-aaea-8b9283c07882/_apis/work/boardbadge/c21b5e38-be49-4c1a-8e83-5a37605f8cdf)](https://dev.azure.com/dracozero7/2383488a-775c-43d7-ab5a-379878654297/_boards/board/t/80136124-83c0-44e5-aaea-8b9283c07882/Microsoft.RequirementCategory)
 [![Build Status](https://dev.azure.com/dracozero70248/test/_apis/build/status/dracozero7.ContosoAir?branchName=master)](https://dev.azure.com/dracozero70248/test/_build/latest?definitionId=2&branchName=master)
 
 # Microsoft.Github CI Demo

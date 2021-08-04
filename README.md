@@ -1,6 +1,6 @@
 [![Build Status](https://dev.azure.com/dracozero70248/test/_apis/build/status/dracozero7.ContosoAir?branchName=master)](https://dev.azure.com/dracozero70248/test/_build/latest?definitionId=2&branchName=master)
 
-# Microsoft.Github CI Demo2
+# Microsoft.Github CI Demo3
 
 Demo website application for Contoso Air.  
 Runs a nodejs server (Express v4.16) that stores customer booked flights in a CosmosDb database.
